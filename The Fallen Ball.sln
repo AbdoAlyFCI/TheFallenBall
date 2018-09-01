@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Fallen Ball", "Assembly-CSharp.csproj", "{47727EAA-783A-559C-C8CA-35A9FF990B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Fallen Ball", "Assembly-CSharp-firstpass.csproj", "{B7AE8E70-B173-78A7-2B7D-0165F0D2F565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Fallen Ball", "Assembly-CSharp-Editor-firstpass.csproj", "{C6D66309-DB9C-CC42-4CF3-CA99F44EE755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47727EAA-783A-559C-C8CA-35A9FF990B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47727EAA-783A-559C-C8CA-35A9FF990B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47727EAA-783A-559C-C8CA-35A9FF990B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47727EAA-783A-559C-C8CA-35A9FF990B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7AE8E70-B173-78A7-2B7D-0165F0D2F565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AE8E70-B173-78A7-2B7D-0165F0D2F565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AE8E70-B173-78A7-2B7D-0165F0D2F565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AE8E70-B173-78A7-2B7D-0165F0D2F565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D66309-DB9C-CC42-4CF3-CA99F44EE755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D66309-DB9C-CC42-4CF3-CA99F44EE755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D66309-DB9C-CC42-4CF3-CA99F44EE755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D66309-DB9C-CC42-4CF3-CA99F44EE755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
